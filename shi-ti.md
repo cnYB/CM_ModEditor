@@ -132,7 +132,7 @@ Entity.remove\(entity\)
 
 #### 获取 \[实体\] 年龄
 
-
+![](/assets/获取 [实体] 年龄.png)
 
 Entity.getAnimalAge\(entity\)
 
